@@ -1,0 +1,146 @@
+#first
+{
+background: url(image/background.jpg) no-repeat center center; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+min-height: 650px;
+}
+
+#last
+{
+background: url(image/back2.jpg) no-repeat center center; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+min-height: 650px;
+}
+.navbar
+{
+    margin-bottom: 0px;
+}
+
+.bigword
+{
+    color: yellow;
+    font-size: 84px;
+    font-family: Georgia, serif;
+}
+
+.title
+{
+    color: whitesmoke;
+    font-size: 36px; 
+    font-family: Georgia, serif;
+}
+
+.last
+{
+    color:aliceblue;
+    text-align: center;
+    margin-top: 200px;
+}
+.words
+{
+    position: relative;
+    text-align: right;
+    margin-top: 250px;
+}
+
+.secondword
+{
+    position:relative;
+    text-align:center;
+    vertical-align: center;
+    margin-top: 100px;
+    
+    
+
+   
+}
+
+.thirdword
+{
+    position:relative;
+    text-align:center;
+    vertical-align: middle;
+    margin-top: 100px;
+    margin-right: auto;
+    
+}
+
+.section
+{
+
+      max-width: 850px;
+  
+}
+.tn1
+{
+
+    height: 330px;
+    width:280px;
+}
+.tn1 img
+{
+    
+    height: 320px;
+    width:280px;
+}
+
+
+.tn2
+{ min-height: 400px;}
+
+.tn2 h2
+{
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.tn2 p
+{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.tn2 ul
+{
+    margin-top: 0px;
+}
+
+.item img
+{
+    text-align: center;
+   margin: 0px auto;
+    min-height: 600px;
+}
+
+.item
+{
+    margin-top: 0px;
+    height:600px; 
+}
+
+.button
+{margin: 0px auto;
+text-align: center;
+vertical-align: middle;
+margin-top: 100px;}
+    
+.jumbotron
+    {margin-bottom: 0px;}
+
+#3rd
+{
+ -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;   
+}
